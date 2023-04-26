@@ -1,0 +1,15 @@
+C:\Seminarki\Programmir\Doma\Seminar_1\Task3\bin\Debug\net7.0\Task3.exe
+C:\Seminarki\Programmir\Doma\Seminar_1\Task3\bin\Debug\net7.0\Task3.deps.json
+C:\Seminarki\Programmir\Doma\Seminar_1\Task3\bin\Debug\net7.0\Task3.runtimeconfig.json
+C:\Seminarki\Programmir\Doma\Seminar_1\Task3\bin\Debug\net7.0\Task3.dll
+C:\Seminarki\Programmir\Doma\Seminar_1\Task3\bin\Debug\net7.0\Task3.pdb
+C:\Seminarki\Programmir\Doma\Seminar_1\Task3\obj\Debug\net7.0\Task3.csproj.AssemblyReference.cache
+C:\Seminarki\Programmir\Doma\Seminar_1\Task3\obj\Debug\net7.0\Task3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Seminarki\Programmir\Doma\Seminar_1\Task3\obj\Debug\net7.0\Task3.AssemblyInfoInputs.cache
+C:\Seminarki\Programmir\Doma\Seminar_1\Task3\obj\Debug\net7.0\Task3.AssemblyInfo.cs
+C:\Seminarki\Programmir\Doma\Seminar_1\Task3\obj\Debug\net7.0\Task3.csproj.CoreCompileInputs.cache
+C:\Seminarki\Programmir\Doma\Seminar_1\Task3\obj\Debug\net7.0\Task3.dll
+C:\Seminarki\Programmir\Doma\Seminar_1\Task3\obj\Debug\net7.0\refint\Task3.dll
+C:\Seminarki\Programmir\Doma\Seminar_1\Task3\obj\Debug\net7.0\Task3.pdb
+C:\Seminarki\Programmir\Doma\Seminar_1\Task3\obj\Debug\net7.0\Task3.genruntimeconfig.cache
+C:\Seminarki\Programmir\Doma\Seminar_1\Task3\obj\Debug\net7.0\ref\Task3.dll
